@@ -581,9 +581,6 @@ Publish the website in the given URL.
 </html>
 
 ```
-### contact page:
-![contact](https://github.com/Mkumar262006/productcompanywebsite/assets/147139472/030df86b-275b-4682-9fdc-b5376e2405b2)
-
 
 
 ## OUTPUT:
@@ -597,6 +594,9 @@ Publish the website in the given URL.
 ![Output](p2.png)
 ![Output](p3.png)
 ![Output](p4.png)
+### contact page:
+![contact](https://github.com/Mkumar262006/productcompanywebsite/assets/147139472/af1db981-7cfd-4920-bf29-04b2e4b6d006)
+
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
